@@ -1,0 +1,51 @@
+*{padding:0;margin:0;}
+h1 {color:green;}
+a {color:white;
+  margin-left:20px;
+  margin-right:20px;
+  font-size:16px;
+  text-decoration:none;
+}
+#navbar { 
+ background-color:rgba(70,130,180,1); 
+ width:100%;
+ height:50px;
+}
+.trio {
+  padding-top:5%;
+  background:rgba(255,0,0,1);
+  width:100%;
+  height:300px;
+  padding-top:10%;
+}
+.trio img {
+  padding:5%;
+  padding-top:10%;
+  width:200px;
+}
+.foto-izquierda {
+  background-color:rgba(255,255,255,1);
+  width:32.4%;
+  height:200px;
+  float:left;
+  border-style: solid;
+  border-color: black;
+}
+
+.foto-medio {
+  background-color:rgba(255,255,255,1);
+  width:32.4%;
+  height:200px;
+  float:left;
+  border-style: solid;
+  border-color: black;
+}
+
+.foto-derecha {
+  background-color:rgba(255,255,255,1);
+  width:32.4%;
+  height:200px;
+  float:right;
+  border-style: solid;
+  border-color: black;
+}
